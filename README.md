@@ -1,4 +1,4 @@
-# NeShellVariable Shell之变量
+# NeShellVariable Shell之变量的定义及使用
 
 ## 一、概念
 ### 1.1 shell命令
